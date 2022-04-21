@@ -1,0 +1,13 @@
+.div{
+    width: 300px;
+    height: 300px;
+    border: 1px solid aqua;
+    display: inline-block;
+    justify-content: space-between;
+    border-radius: 30px;
+}
+.img{
+    width: 100px;
+    border-radius: 50px;
+
+}
